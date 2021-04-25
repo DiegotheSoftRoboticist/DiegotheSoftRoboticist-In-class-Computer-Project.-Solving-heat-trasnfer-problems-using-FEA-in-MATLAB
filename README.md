@@ -1,1 +1,2 @@
 # DiegotheSoftRoboticist-In-class-Computer-Project.-Solving-heat-trasnfer-problems-using-FEA-in-MATLAB
+In this class project, I perform a 2D heat transfer simulation using finite element analysis in MATLAB. This thermal system contains different heat transfer methods, including convection and conduction and internal heat generation. This finite element approach and the use of MATLAB help understand how FEA can solve heat transfer problems (exact solution would be arduous and complex) and how finite methods are implemented using conventional coding.
